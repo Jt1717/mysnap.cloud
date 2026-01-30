@@ -1,0 +1,2 @@
+# mysnap.cloud
+snap
